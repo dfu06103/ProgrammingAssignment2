@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## My functions are incomplete, I intend to retake this course after finishing lab-work
+## necessary for my degree (sorry)
 
 ## Write a short comment describing this function
 
